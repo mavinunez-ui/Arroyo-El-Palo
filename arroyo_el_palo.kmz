@@ -1,0 +1,1101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+  <Document id="1f23D-mTSRhz0wEoDMV-_uVlAaiEo26AJ">
+    <name>A° El Palo.kmz</name>
+    <description/>
+    <Style id="__style_0">
+      <IconStyle>
+        <Icon>
+          <href><![CDATA[https://earth.google.com/earth/rpc/cc/icon?id=2000&color=1976d2&scale=4.0]]></href>
+        </Icon>
+        <hotSpot x="64" xunits="pixels" y="128" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+      <LineStyle>
+        <color>ff2dc0fb</color>
+        <width>4</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>40ffffff</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <displayMode>default</displayMode>
+      </BalloonStyle>
+    </Style>
+    <Style id="__style_1">
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>data:image/png;base64,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</href>
+        </Icon>
+        <hotSpot x="20" xunits="pixels" y="62" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+      <LineStyle>
+        <color>ffff55ff</color>
+        <width>4</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>40ffffff</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <displayMode>default</displayMode>
+      </BalloonStyle>
+    </Style>
+    <Style id="__style_2">
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>data:image/png;base64,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</href>
+        </Icon>
+        <hotSpot x="20" xunits="pixels" y="62" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+      <LineStyle>
+        <color>ffff55ff</color>
+        <width>4</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>40ffffff</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <displayMode>default</displayMode>
+      </BalloonStyle>
+    </Style>
+    <Style id="__style_3">
+      <IconStyle>
+        <scale>0.75</scale>
+        <Icon>
+          <href><![CDATA[https://earth.google.com/earth/rpc/cc/icon?id=2050&color=f57c00&scale=4.0]]></href>
+        </Icon>
+        <hotSpot x="64" xunits="pixels" y="128" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+      <LineStyle>
+        <color>ff2dc0fb</color>
+        <width>4</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>40ffffff</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <displayMode>default</displayMode>
+      </BalloonStyle>
+    </Style>
+    <Style id="__style_4">
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>data:image/png;base64,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</href>
+        </Icon>
+        <hotSpot x="20" xunits="pixels" y="62" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+      <LineStyle>
+        <color>ffff55ff</color>
+        <width>4</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>40ffffff</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <displayMode>default</displayMode>
+      </BalloonStyle>
+    </Style>
+    <Style id="__style_5">
+      <IconStyle>
+        <scale>0.75</scale>
+        <Icon>
+          <href><![CDATA[https://earth.google.com/earth/rpc/cc/icon?id=2129&color=1976d2&scale=4.0]]></href>
+        </Icon>
+        <hotSpot x="64" xunits="pixels" y="128" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+      <LineStyle>
+        <color>ff2dc0fb</color>
+        <width>4</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>40ffffff</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <displayMode>default</displayMode>
+      </BalloonStyle>
+    </Style>
+    <Style id="__style_6">
+      <IconStyle>
+        <scale>0.75</scale>
+        <Icon>
+          <href><![CDATA[https://earth.google.com/earth/rpc/cc/icon?id=2129&color=1976d2&scale=4.0]]></href>
+        </Icon>
+        <hotSpot x="64" xunits="pixels" y="128" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+      <LineStyle>
+        <color>ff2dc0fb</color>
+        <width>4</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>40ffffff</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <displayMode>default</displayMode>
+      </BalloonStyle>
+    </Style>
+    <Style id="__style_7">
+      <IconStyle>
+        <scale>0.75</scale>
+        <Icon>
+          <href><![CDATA[https://earth.google.com/earth/rpc/cc/icon?id=2129&color=1976d2&scale=4.0]]></href>
+        </Icon>
+        <hotSpot x="64" xunits="pixels" y="128" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+      <LineStyle>
+        <color>ff2dc0fb</color>
+        <width>4</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>40ffffff</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <displayMode>default</displayMode>
+      </BalloonStyle>
+    </Style>
+    <Style id="__style_8">
+      <IconStyle>
+        <scale>0.75</scale>
+        <Icon>
+          <href><![CDATA[https://earth.google.com/earth/rpc/cc/icon?id=2129&color=1976d2&scale=4.0]]></href>
+        </Icon>
+        <hotSpot x="64" xunits="pixels" y="128" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+      <LineStyle>
+        <color>ff2dc0fb</color>
+        <width>4</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>40ffffff</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <displayMode>default</displayMode>
+      </BalloonStyle>
+    </Style>
+    <Style id="__style_9">
+      <IconStyle>
+        <Icon>
+          <href><![CDATA[https://earth.google.com/earth/rpc/cc/icon?id=2000&color=1976d2&scale=4.0]]></href>
+        </Icon>
+        <hotSpot x="64" xunits="pixels" y="128" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+      <LineStyle>
+        <color>ff2dc0fb</color>
+        <width>4</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>40ffffff</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <displayMode>default</displayMode>
+      </BalloonStyle>
+    </Style>
+    <Style id="__style_10">
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>data:image/png;base64,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</href>
+        </Icon>
+        <hotSpot x="20" xunits="pixels" y="62" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+      <LineStyle>
+        <color>ff2dc0fb</color>
+        <width>4</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>c02f2fd3</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <displayMode>default</displayMode>
+      </BalloonStyle>
+    </Style>
+    <Style id="__style_11">
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>data:image/png;base64,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</href>
+        </Icon>
+        <hotSpot x="20" xunits="pixels" y="62" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+      <LineStyle>
+        <color>ff2f2fd3</color>
+        <width>3</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>c02f2fd3</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <displayMode>default</displayMode>
+      </BalloonStyle>
+    </Style>
+    <Style id="__style_12">
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>data:image/png;base64,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</href>
+        </Icon>
+        <hotSpot x="20" xunits="pixels" y="62" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+      <LineStyle>
+        <color>ff2f2fd3</color>
+        <width>3</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>c02f2fd3</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <displayMode>default</displayMode>
+      </BalloonStyle>
+    </Style>
+    <Style id="__style_13">
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>data:image/png;base64,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</href>
+        </Icon>
+        <hotSpot x="20" xunits="pixels" y="62" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+      <LineStyle>
+        <color>ff2dc0fb</color>
+        <width>4</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>c0d27619</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <displayMode>default</displayMode>
+      </BalloonStyle>
+    </Style>
+    <Schema id="schema" name="__schema"/>
+    <Folder id="5E00081576000001">
+      <name>A° El Palo</name>
+      <visibility>1</visibility>
+      <styleUrl>#__style_0</styleUrl>
+      <ExtendedData>
+        <SchemaData schemaUrl="#schema"/>
+      </ExtendedData>
+      <Placemark id="5E00081577000002">
+        <name>A° El Palo</name>
+        <visibility>1</visibility>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema"/>
+        </ExtendedData>
+        <LineString>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>
+            -58.5703082057576,-34.8296602072294,0
+            -58.5700809503948,-34.8293835991661,0
+            -58.5698461461707,-34.8290861062378,0
+            -58.5696110175574,-34.8288269938431,0
+            -58.5693766147496,-34.8285499836809,0
+            -58.5690905861721,-34.8282045062477,0
+            -58.5687782589954,-34.8278338521388,0
+            -58.5685789755517,-34.8276146672846,0
+            -58.5684445607109,-34.8275847906524,0
+            -58.5682794607222,-34.8275723892392,0
+            -58.5681098629711,-34.8275581297454,0
+            -58.5679629890886,-34.8275388668083,0
+            -58.5678590491459,-34.8275233381701,0
+            -58.5677962549644,-34.8275162140597,0
+            -58.5675836552671,-34.8275050522474,0
+            -58.5674562717524,-34.8275053746575,0
+            -58.5673232487286,-34.8275493798076,0
+            -58.5670555363806,-34.8276696335885,0
+            -58.5668643653665,-34.827747662766,0
+            -58.5668003871211,-34.827769311736,0
+            -58.5667577571798,-34.8277813274339,0
+            -58.5665914521331,-34.8278281265724,0
+            -58.5664740390922,-34.8278499106439,0
+            -58.5663442664768,-34.827862954377,0
+            -58.5662438178934,-34.827875133039,0
+            -58.5661460653934,-34.8278940374445,0
+            -58.5660889123196,-34.8279078001885,0
+            -58.5660029310471,-34.8279276737161,0
+            -58.5658201856125,-34.8280041359031,0
+            -58.5656754323931,-34.8280103868631,0
+            -58.5656371675814,-34.8280135174366,0
+            -58.5655487878139,-34.8280169305415,0
+            -58.5654324737955,-34.8280142451008,0
+            -58.5653129063162,-34.8280124522399,0
+            -58.5652270230017,-34.8280124509592,0
+            -58.565135929915,-34.8280151357961,0
+            -58.5650807516696,-34.8280136315861,0
+            -58.5650587518176,-34.828012248003,0
+            -58.5650164129389,-34.8280130618015,0
+            -58.564985315702,-34.8280127767497,0
+            -58.564939471437,-34.8280087763023,0
+            -58.5648326229976,-34.8280052636186,0
+            -58.5647684465914,-34.8279998534758,0
+            -58.5646717602206,-34.8279808256961,0
+            -58.5646113118399,-34.8279762933283,0
+            -58.5645175714529,-34.8280199898459,0
+            -58.564489913737,-34.8280781041736,0
+            -58.5643803582601,-34.8281900983658,0
+            -58.5642650700962,-34.8281857580404,0
+            -58.5640513608956,-34.8280913535427,0
+            -58.5639239955346,-34.8280772469144,0
+            -58.5637858032543,-34.8280792952545,0
+            -58.5637029027249,-34.8281099197181,0
+            -58.5635891137031,-34.828129351764,0
+            -58.5634230290152,-34.8281950106084,0
+            -58.5630851763132,-34.8283836328184,0
+            -58.5628787919374,-34.8285549926329,0
+            -58.5627893107619,-34.828650872457,0
+            -58.5625242682865,-34.8289482194108,0
+            -58.5623887671222,-34.82910918673,0
+            -58.5621010593338,-34.8292505418135,0
+            -58.5618219560853,-34.8294313703687,0
+            -58.561705043745,-34.8295650740181,0
+            -58.5613966969774,-34.8297847117351,0
+            -58.5611528961401,-34.8298656022263,0
+            -58.5608131433041,-34.8299589269275,0
+            -58.5606107026935,-34.8300190496107,0
+            -58.5601568584033,-34.830204210087,0
+            -58.5598287339784,-34.8303175799824,0
+            -58.5595778038074,-34.8303777417517,0
+            -58.5592324166677,-34.8304650813381,0
+            -58.5590459483553,-34.8305390366091,0
+            -58.558876664247,-34.8306229122211,0
+            -58.5588402267432,-34.8306528623941,0
+            -58.5588149909732,-34.8306850531186,0
+            -58.5588021365099,-34.8307121950726,0
+            -58.5587846554452,-34.8307369637062,0
+            -58.5587402352299,-34.8307723258943,0
+            -58.5587000694127,-34.8307898288466,0
+            -58.5586647553255,-34.8308019920602,0
+            -58.558577486141,-34.830812571899,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="5E00081577000003">
+        <name>Desagüe RA10 - Oeste</name>
+        <visibility>1</visibility>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema"/>
+        </ExtendedData>
+        <LineString>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>
+            -58.5655425778397,-34.8307855552534,0
+            -58.5661883536794,-34.8298995786912,0
+            -58.5660532272412,-34.8291915310386,0
+            -58.5659570133268,-34.82858784612,0
+            -58.5658570969871,-34.8279958849722,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="5E00081577000004">
+        <name>Desagüe RA-10 - Este</name>
+        <visibility>1</visibility>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema"/>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -58.5620555870849,-34.8313954088876,0
+            -58.5620544939227,-34.8308155416171,0
+            -58.5620573018659,-34.8302686493581,0
+            -58.5620490676388,-34.8297328797684,0
+            -58.5620500367478,-34.8292993565441,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="5E00081577000005">
+        <name>Acantarilla de ingreso</name>
+        <visibility>1</visibility>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema"/>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -58.5590320078278,-34.8305946678615,0
+                -58.558971472344,-34.830630083603,0
+                -58.5589011680319,-34.830558003539,0
+                -58.5589619723383,-34.8305258181205,0
+                -58.5590320078278,-34.8305946678615,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="5E00081577000006">
+        <name>Escombros a retirar</name>
+        <visibility>1</visibility>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema"/>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -58.5645281062558,-34.8281066836618,0
+                -58.5645257689386,-34.8281061111586,0
+                -58.5644729898723,-34.8281657803863,0
+                -58.5643957143632,-34.8281188401553,0
+                -58.5644502579064,-34.8280561819459,0
+                -58.5645281062558,-34.8281066836618,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="5E00081577000007">
+        <name>Cuneta izquierda</name>
+        <visibility>1</visibility>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema"/>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -58.5646088071262,-34.8281479441245,0
+            -58.5645377085078,-34.8280977212881,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="5E00081577000008">
+        <name>Cuneta derecha</name>
+        <visibility>1</visibility>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema"/>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -58.5645590716124,-34.8282354913283,0
+            -58.5644687735703,-34.828176285755,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="5E0008157700000D">
+        <name>Puente CONUAR-FAE</name>
+        <visibility>1</visibility>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema"/>
+        </ExtendedData>
+        <Polygon>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -58.5703328954948,-34.8297400195901,0
+                -58.5702841480848,-34.8297087409616,0
+                -58.5703616887267,-34.8296053486171,0
+                -58.570417272525,-34.8296362703937,0
+                -58.5703328954948,-34.8297400195901,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="5E00081577000010">
+        <name>Alcantarilla de Ingreso</name>
+        <visibility>1</visibility>
+        <LookAt>
+          <longitude>-58.5591222940133</longitude>
+          <latitude>-34.8304081170002</latitude>
+          <altitude>0</altitude>
+          <heading>-0.00201414124951223</heading>
+          <tilt>30.000377184752</tilt>
+          <range>80.5167533305334</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema"/>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>
+            -58.5589591989631,-34.8305666226395,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="5E0008157800001F">
+        <name>Puente camino de obra</name>
+        <visibility>0</visibility>
+        <LookAt>
+          <longitude>-58.5640731721052</longitude>
+          <latitude>-34.8283270281341</latitude>
+          <altitude>0</altitude>
+          <heading>0.00101822966075267</heading>
+          <tilt>20.6006304739153</tilt>
+          <range>218.800445557981</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema"/>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -58.5644280588959,-34.8280828258573,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="5E00081578000020">
+        <name>Válvula colectora Este</name>
+        <visibility>1</visibility>
+        <LookAt>
+          <longitude>-58.5624975449028</longitude>
+          <latitude>-34.8291684218897</latitude>
+          <altitude>0</altitude>
+          <heading>-0.000193526932166302</heading>
+          <tilt>26.5745515496362</tilt>
+          <range>463.374328125208</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema"/>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -58.5620448922161,-34.8293155981949,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="5E00081578000021">
+        <name>Válvula colectora Oeste</name>
+        <visibility>1</visibility>
+        <LookAt>
+          <longitude>-58.5645093837049</longitude>
+          <latitude>-34.8282623921458</latitude>
+          <altitude>0</altitude>
+          <heading>0.00132950231882894</heading>
+          <tilt>19.4614818216411</tilt>
+          <range>325.436627246096</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema"/>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -58.5658498022764,-34.8280111245465,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="5E00081578000022">
+        <name>Restos de alcantarilla</name>
+        <visibility>1</visibility>
+        <LookAt>
+          <longitude>-58.5685995041659</longitude>
+          <latitude>-34.827872731107</latitude>
+          <altitude>0</altitude>
+          <heading>0.00352560637643544</heading>
+          <tilt>22.1317817120222</tilt>
+          <range>266.812910176017</range>
+          <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+        </LookAt>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema"/>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>
+            -58.5677386824262,-34.8274242382098,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="0640EA4CF641DFC9099E">
+        <name>Escombros a retirar</name>
+        <visibility>1</visibility>
+        <LookAt>
+          <longitude>-58.5622224669389</longitude>
+          <latitude>-34.828749798077</latitude>
+          <altitude>10.6401277100576</altitude>
+          <heading>-0.419312103283731</heading>
+          <tilt>8.7693161452537</tilt>
+          <range>2645.14742077037</range>
+          <altitudeMode>absolute</altitudeMode>
+        </LookAt>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema"/>
+        </ExtendedData>
+        <Point>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>
+            -58.5644416830296,-34.8279798449489,10.301811965256
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Placemark id="0949A3BB4841227CBD01">
+      <name>cuenta derecha</name>
+      <visibility>1</visibility>
+      <LookAt>
+        <longitude>-58.5643375131793</longitude>
+        <latitude>-34.828305000675</latitude>
+        <altitude>9.48397356157963</altitude>
+        <heading>-6.94513144446605e-06</heading>
+        <tilt>0.181366899658068</tilt>
+        <range>119.737008014126</range>
+        <altitudeMode>absolute</altitudeMode>
+      </LookAt>
+      <styleUrl>#__style_1</styleUrl>
+      <ExtendedData>
+        <SchemaData schemaUrl="#schema"/>
+      </ExtendedData>
+      <LineString>
+        <extrude>0</extrude>
+        <tessellate>0</tessellate>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>
+          -58.5645816303624,-34.828246763012,0
+          -58.5648189110711,-34.8283927445963,0
+          -58.5650190770578,-34.8285324588941,0
+          -58.5650912145755,-34.8285928425523,0
+          -58.5651446691071,-34.8286650934405,0
+          -58.5651763419004,-34.8287240624087,0
+          -58.5651918390927,-34.8287938942171,0
+          -58.5652055832882,-34.8288880681935,0
+          -58.565183207301,-34.8289892719461,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark id="02FE24DF5D41227DA698">
+      <name>Cuneta izquierda</name>
+      <visibility>1</visibility>
+      <LookAt>
+        <longitude>-58.5645395750994</longitude>
+        <latitude>-34.8284808336865</latitude>
+        <altitude>9.7020406827726</altitude>
+        <heading>49.4177182810675</heading>
+        <tilt>0.181366893155173</tilt>
+        <range>119.51892998175</range>
+        <altitudeMode>absolute</altitudeMode>
+      </LookAt>
+      <styleUrl>#__style_1</styleUrl>
+      <ExtendedData>
+        <SchemaData schemaUrl="#schema"/>
+      </ExtendedData>
+      <LineString>
+        <extrude>0</extrude>
+        <tessellate>0</tessellate>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>
+          -58.5646310987636,-34.8281705400104,0
+          -58.5647100053414,-34.8282342529554,0
+          -58.5648064622913,-34.82830517329,0
+          -58.5648987087661,-34.8283561965784,0
+          -58.5649770329843,-34.8283974154056,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark id="0B2E49A7014126868E90">
+      <name>Puente CONUAR-FAE</name>
+      <visibility>1</visibility>
+      <LookAt>
+        <longitude>-58.5671984569409</longitude>
+        <latitude>-34.8282719769038</latitude>
+        <altitude>10.1826188985256</altitude>
+        <heading>353.014313124796</heading>
+        <tilt>0</tilt>
+        <range>632.646434729322</range>
+        <altitudeMode>absolute</altitudeMode>
+      </LookAt>
+      <styleUrl>#__style_2</styleUrl>
+      <ExtendedData>
+        <SchemaData schemaUrl="#schema"/>
+      </ExtendedData>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>
+          -58.5704049073277,-34.8296202695321,8.48074188925363
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="097C079383412697BC67">
+      <name>cuenta izquierda</name>
+      <visibility>1</visibility>
+      <LookAt>
+        <longitude>-58.5651215604295</longitude>
+        <latitude>-34.8284999877294</latitude>
+        <altitude>9.61429494861904</altitude>
+        <heading>-0</heading>
+        <tilt>0</tilt>
+        <range>300.906799393706</range>
+        <altitudeMode>absolute</altitudeMode>
+      </LookAt>
+      <styleUrl>#__style_1</styleUrl>
+      <ExtendedData>
+        <SchemaData schemaUrl="#schema"/>
+      </ExtendedData>
+      <LineString>
+        <extrude>0</extrude>
+        <tessellate>0</tessellate>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>
+          -58.5650453743145,-34.8284567865714,0
+          -58.5651335760143,-34.8285423174091,0
+          -58.5652195376263,-34.82863088504,0
+          -58.5652454416607,-34.8286914756603,0
+          -58.5652574072099,-34.8287521186419,0
+          -58.5652673345946,-34.8288323325209,0
+          -58.5652852379298,-34.8288944550261,0
+          -58.5653253355496,-34.8289669522321,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark id="0ECC6015C941DFBB31A4">
+      <name>Alcantarilla 1.1</name>
+      <visibility>1</visibility>
+      <LookAt>
+        <longitude>-58.5702387359334</longitude>
+        <latitude>-34.8295333110983</latitude>
+        <altitude>7.94560516355026</altitude>
+        <heading>0</heading>
+        <tilt>0</tilt>
+        <range>111.46073924594</range>
+        <altitudeMode>absolute</altitudeMode>
+      </LookAt>
+      <styleUrl>#__style_3</styleUrl>
+      <ExtendedData>
+        <SchemaData schemaUrl="#schema"/>
+      </ExtendedData>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>
+          -58.5703421690894,-34.8295762177409,8.41979787287399
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="0EC04A8DAE41DFBD92AE">
+      <name>Alcantarilla 1</name>
+      <visibility>1</visibility>
+      <LookAt>
+        <longitude>-58.5702387359334</longitude>
+        <latitude>-34.8295333110983</latitude>
+        <altitude>7.94560516355026</altitude>
+        <heading>0</heading>
+        <tilt>0</tilt>
+        <range>111.46073924594</range>
+        <altitudeMode>absolute</altitudeMode>
+      </LookAt>
+      <styleUrl>#__style_3</styleUrl>
+      <ExtendedData>
+        <SchemaData schemaUrl="#schema"/>
+      </ExtendedData>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>
+          -58.5704167712017,-34.8294776021846,8.88917446265262
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="00E84E444341DFBE4F8B">
+      <name>Alcantarilla 2</name>
+      <visibility>1</visibility>
+      <LookAt>
+        <longitude>-58.5698366884156</longitude>
+        <latitude>-34.8291859875752</latitude>
+        <altitude>9.56503616991526</altitude>
+        <heading>358.925699856244</heading>
+        <tilt>0</tilt>
+        <range>294.763321729806</range>
+        <altitudeMode>absolute</altitudeMode>
+      </LookAt>
+      <styleUrl>#__style_3</styleUrl>
+      <ExtendedData>
+        <SchemaData schemaUrl="#schema"/>
+      </ExtendedData>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>
+          -58.5702274921385,-34.8292701901304,10.8616658705616
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="0D1F1FDDF541DFBE95FC">
+      <name>Alcantrilla2.1</name>
+      <visibility>1</visibility>
+      <LookAt>
+        <longitude>-58.5698366884156</longitude>
+        <latitude>-34.8291859875752</latitude>
+        <altitude>9.56503616991526</altitude>
+        <heading>358.925699856244</heading>
+        <tilt>0</tilt>
+        <range>294.763321729806</range>
+        <altitudeMode>absolute</altitudeMode>
+      </LookAt>
+      <styleUrl>#__style_3</styleUrl>
+      <ExtendedData>
+        <SchemaData schemaUrl="#schema"/>
+      </ExtendedData>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>
+          -58.5701240864627,-34.8293875911726,7.98878073628497
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="0CFC5594D341E0063080">
+      <name>Camino de obra</name>
+      <visibility>1</visibility>
+      <LookAt>
+        <longitude>-58.5690639145271</longitude>
+        <latitude>-34.8163275686254</latitude>
+        <altitude>11.9526163209159</altitude>
+        <heading>8.36439423724097</heading>
+        <tilt>10.3188918197887</tilt>
+        <range>2583.2915998614</range>
+        <altitudeMode>absolute</altitudeMode>
+      </LookAt>
+      <styleUrl>#__style_4</styleUrl>
+      <ExtendedData>
+        <SchemaData schemaUrl="#schema"/>
+      </ExtendedData>
+      <LineString>
+        <extrude>0</extrude>
+        <tessellate>0</tessellate>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>
+          -58.5703700743696,-34.8295672008389,0
+          -58.5687054128546,-34.8275863398138,0
+          -58.5659806210065,-34.8263197141065,0
+          -58.5643980148323,-34.8255245357239,0
+          -58.5636235948971,-34.8251561472213,0
+          -58.5632086834306,-34.8249545267908,0
+          -58.5629644673454,-34.8248311101058,0
+          -58.5628244545661,-34.8246118694728,0
+          -58.5706468943655,-34.8140262788619,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark id="00DC5B3F1641E008821C">
+      <name>Cámara OS</name>
+      <visibility>1</visibility>
+      <LookAt>
+        <longitude>-58.5659822783434</longitude>
+        <latitude>-34.8291218961459</latitude>
+        <altitude>9.66404426089893</altitude>
+        <heading>-0.777749578261374</heading>
+        <tilt>20.4672959175397</tilt>
+        <range>112.488932319939</range>
+        <altitudeMode>absolute</altitudeMode>
+      </LookAt>
+      <styleUrl>#__style_5</styleUrl>
+      <ExtendedData>
+        <SchemaData schemaUrl="#schema"/>
+      </ExtendedData>
+      <Polygon>
+        <extrude>0</extrude>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              -58.5660371165569,-34.8292022306021,0
+              -58.5660306804101,-34.8291760123174,0
+              -58.5660604014664,-34.8291726142814,0
+              -58.5660667004456,-34.8291980958904,0
+              -58.5660371165569,-34.8292022306021,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark id="01C0124E5241E00B252B">
+      <name>Cámara ON</name>
+      <visibility>1</visibility>
+      <LookAt>
+        <longitude>-58.5660528599104</longitude>
+        <latitude>-34.8289683329324</latitude>
+        <altitude>9.62093542561706</altitude>
+        <heading>-0.777748144402534</heading>
+        <tilt>20.4674477438229</tilt>
+        <range>160.770374967069</range>
+        <altitudeMode>absolute</altitudeMode>
+      </LookAt>
+      <styleUrl>#__style_6</styleUrl>
+      <ExtendedData>
+        <SchemaData schemaUrl="#schema"/>
+      </ExtendedData>
+      <Polygon>
+        <extrude>0</extrude>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              -58.5660398584837,-34.8290461071923,0
+              -58.5660122529661,-34.8290500192956,0
+              -58.5660063171185,-34.8290192843104,0
+              -58.5660332619264,-34.8290173414426,0
+              -58.5660398584837,-34.8290461071923,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark id="0278F94BEC41E00B960F">
+      <name>Cámara NE</name>
+      <visibility>1</visibility>
+      <LookAt>
+        <longitude>-58.5624019233122</longitude>
+        <latitude>-34.8292275626741</latitude>
+        <altitude>10.1723358023417</altitude>
+        <heading>-0.777747039800457</heading>
+        <tilt>20.46756469778</tilt>
+        <range>197.962170714127</range>
+        <altitudeMode>absolute</altitudeMode>
+      </LookAt>
+      <styleUrl>#__style_6</styleUrl>
+      <ExtendedData>
+        <SchemaData schemaUrl="#schema"/>
+      </ExtendedData>
+      <Polygon>
+        <extrude>0</extrude>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              -58.5620621304792,-34.8295185897074,0
+              -58.5620185328656,-34.8295169751352,0
+              -58.5620201098205,-34.8294659608391,0
+              -58.5620617457359,-34.8294666734014,0
+              -58.5620621304792,-34.8295185897074,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark id="0BD1CA9A0541E00C0F58">
+      <name>Pileta de ecualización</name>
+      <visibility>1</visibility>
+      <LookAt>
+        <longitude>-58.5625878009821</longitude>
+        <latitude>-34.8313915638564</latitude>
+        <altitude>10.1832017350804</altitude>
+        <heading>-0.777747007657006</heading>
+        <tilt>20.4675680499887</tilt>
+        <range>199.02820121908</range>
+        <altitudeMode>absolute</altitudeMode>
+      </LookAt>
+      <styleUrl>#__style_7</styleUrl>
+      <ExtendedData>
+        <SchemaData schemaUrl="#schema"/>
+      </ExtendedData>
+      <Polygon>
+        <extrude>0</extrude>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              -58.5624195150118,-34.8316037671409,0
+              -58.5623815626961,-34.8316054991696,0
+              -58.5623447380285,-34.8316029202448,0
+              -58.5623427748319,-34.8315070605504,0
+              -58.5624178430587,-34.8315050059046,0
+              -58.5624195150118,-34.8316037671409,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>
